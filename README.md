@@ -21,6 +21,16 @@ To run, bring up a terminal/command prompt and type
 node fileparser challenge.tsv
 ```
 
+challenge.tsv file is delimeted by \t escape characters (tabs). Looks like this:
+
+```
+2012-10-31T18:23:36 false	0	0.00	US	1440	900
+2012-10-31T16:52:58	false	0	0.00	US	1280	800
+2012-10-31T01:43:59	false	0	0.00	US	1280	800
+2012-10-31T04:22:06	false	0	0.00	US	2560	1440
+2012-10-31T09:55:02	false	0	0.00	AU	1280	800
+```
+
 Output should be: 
 
 ```
