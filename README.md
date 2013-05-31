@@ -1,7 +1,7 @@
 Fileparser
 ====================
 
-A few modules, functions in CoffeeSript
+This is a script for parsing raw customer data from an e-commerce website
 
 included:
     challenge.tsv (tab-spaced data file)
