@@ -5,7 +5,7 @@ This is a script for parsing raw customer data from an e-commerce website
 
 included:
     challenge.tsv (tab-spaced data file)
-	fileparsr.js
+	fileparser.js
 	
 
 Fileparser script uses the Node fs module's read stream, and is capable of reading in chunks as data becomes available.
