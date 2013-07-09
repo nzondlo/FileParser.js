@@ -45,5 +45,5 @@ Output should be:
 4) Most popular screen resolution: 1280 x 800                                                                                                                                                         
 5) Money spent by all visitors: 921.65                                                                                                                                                                
 6) Average amount spent per visitor: $00.92                                                                                                                                                           
-7) Average amount by visitors that made a purchase: $102.41 
+7) Average amount spent by visitors that made a purchase: $102.41 
 ```
